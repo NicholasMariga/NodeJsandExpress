@@ -12,4 +12,3 @@ Cover aspects of
  
  All these functionalities of a full stack web application are implemented in SESSIONS functions:
 
-
